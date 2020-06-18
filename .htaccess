@@ -1,0 +1,4 @@
+AuthName "os"
+AuthUserFile "/home/eclbikyu/.htpasswds/public_html/os/passwd"
+AuthType Basic
+require valid-user
